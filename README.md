@@ -1,6 +1,5 @@
 # Simple Juken Tuner
 
-
 Aplikasi Android sederhana untuk baca/tulis/log data ECU Juken 5 Racing Turbo
 (BRT) via Bluetooth Classic SPP. Dibuat ulang dari nol dengan menu yang lebih
 ringkas dibanding aplikasi referensi, berdasarkan protokol yang dipelajari
